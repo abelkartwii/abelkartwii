@@ -4,7 +4,11 @@
         <title>{{ site.title }}</title>
         <meta name="description" content="{{ site.description }}">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+<<<<<<< HEAD
 		<link rel="stylesheet" href="{{ '/styles/styles.css' | relative_url }}">
+=======
+		<link rel="stylesheet" href="{{ '/styles/styles.css' | prepend:relative_url }}">
+>>>>>>> ba6316cad6643f44d33fb13fb1675386475b3f6c
     </head>
     
     <body>
@@ -19,7 +23,11 @@
                         <a href="{{ link.url }}">
                         {% endif %}
                         {% if link.external != true %}
+<<<<<<< HEAD
                         <a href="{{ link.url | relative_url }}">
+=======
+                        <a href="{{ link.url | prepend:relative_url }}">
+>>>>>>> ba6316cad6643f44d33fb13fb1675386475b3f6c
                         {% endif %}
                             {{ link.name }}
                         </a>
