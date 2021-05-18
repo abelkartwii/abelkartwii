@@ -6,11 +6,10 @@
 
 # no trailing slash
 url: https://abelkartwii.github.io
-root: /
 
 # for header and meta tags
-title: Point Theme 🎯
-description: description for search engines and social media cards
+title: 🌻 abel kartawinata 
+description: abel kartawinata's blog
 
 # set external to true if linking outside your website
 # for internal, make sure to include preceding slash
@@ -21,14 +20,14 @@ nav-links:
   - name: Blog
     url: /blog
     external: false
-  - name: Search Engine
-    url: https://duckduckgo.com
+  - name: Projects
+    url: /projects
     external: true
 
 # for the homepage image + big text next to it
 greeting_image: /assets/me.jpg
 # 100-200 characters recommended
-greeting_text: Hey, I'm Point Theme! I'm a Jekyll theme for personal websites that are short & to the point. Fork it on Github, customize the styles and options, and enjoy!
+greeting_text: Hi there! I'm Abel (she/they), and I am currently a sophomore at Green River College studying computer science. I love data and anything to do with it: transforming, moving, integrating, storing, visualizing...
 
 # show blog post excerpts on blog page
 show_excerpts: false
