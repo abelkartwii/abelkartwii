@@ -1,29 +1,25 @@
 ---
 ---
 
-## 🤷 What I do
+#### 🍋 what I do
+I am an aspiring data engineer that loves to see data get up and move! I have a penchant for open-source software and try my best to use them in my projects whenever possible.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+My main interests are distributed systems and cloud computing, and I plan on doing research in either field whenever I transfer to a university. Martin Kleppmann's Designing Data-Intensive Applications was the book that made me fell in love with the field, and I have read the book twice by now.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+#### 🍎 extracurriculars
+At my community college, I am a senator in the student senate's public relations committee. I am also a member of the activities board where we plan a bunch of cool stuff for everyone to attend. 
 
-## 🦕 What I've done before
+Aside from that, I am on my feet running 30 miles per week, most of them done easy. 
+I have a huge interest in **languages** as well, both human and programming. I have a pipe dream of learning one language from each major language family, and if I spend a year focusing on just one language, I will be done by 2035 😨
 
-Purus non enim praesent elementum facilisis. In aliquam sem fringilla ut. Hac habitasse platea dictumst vestibulum rhoncus est. Ut porttitor leo a diam sollicitudin.
+#### 🍓 reach out!
+Feel free to reach out to me at:
+- hello at abel dot online 
+- Github: [abelkartwii](http://github.com/abelkartwii/)
+- LinkedIn [page](http://linkedin.com/abel.kartawinata/)
 
-Amet commodo nulla facilisi nullam vehicula ipsum a arcu. Venenatis urna cursus eget nunc. Dui accumsan sit amet nulla facilisi morbi tempus. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Sem viverra aliquet eget sit amet tellus cras.
-
-Sit amet tellus cras adipiscing enim eu turpis egestas pretium. Ipsum faucibus vitae aliquet nec. Ac auctor augue mauris augue neque gravida. Neque egestas congue quisque egestas.
-
-## 👋🏻 Say hi
-
-Wanna chat? Feel free to reach out!
-
-- Source code: [@katmh/point-theme](http://github.com/katmh/point-theme)
-- [Issues](https://github.com/katmh/point-theme/issues)
-
-## 📠 Fun facts
-
-- You can customize link colors, container width, and fonts in `styles/styles.scss`
-- This theme has built-in options for 2 different date formats: "November 12, 2018" and "Nov '18"
-- Be sure to look through the config file to change the site title, description, homepage greeting, and more
+#### 🍑 fun facts
+- My favorite song of all time is Carly Rae Jepsen's [Run Away With Me](https://www.youtube.com/watch?v=TeccAtqd5K8)
+- I have never ever once slept in class
+- My love language is words of affirmation
+- I am allergic to most seafood, yet I was raised in a sushi-loving family
