@@ -4,7 +4,7 @@
         <title>{{ site.title }}</title>
         <meta name="description" content="{{ site.description }}">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
-		<link rel="stylesheet" href="{{ '/styles/styles.css' | prepend:site.url }}">
+		<link rel="stylesheet" href="{{ '/styles/styles.css' | prepend:relative_url }}">
     </head>
     
     <body>
@@ -19,7 +19,7 @@
                         <a href="{{ link.url }}">
                         {% endif %}
                         {% if link.external != true %}
-                        <a href="{{ link.url | prepend:site.url }}">
+                        <a href="{{ link.url | prepend:relative_url }}">
                         {% endif %}
                             {{ link.name }}
                         </a>

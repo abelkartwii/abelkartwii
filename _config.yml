@@ -6,6 +6,7 @@
 
 # no trailing slash
 url: https://abelkartwii.github.io
+root: /
 
 # for header and meta tags
 title: Point Theme 🎯
