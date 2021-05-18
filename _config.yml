@@ -14,13 +14,13 @@ description: abel kartawinata's blog
 # set external to true if linking outside your website
 # for internal, make sure to include preceding slash
 nav-links:
-  - name: Home
+  - name: home
     url: /
     external: false
-  - name: Blog
+  - name: blog
     url: /blog
     external: false
-  - name: Projects
+  - name: projects
     url: /projects
     external: true
 

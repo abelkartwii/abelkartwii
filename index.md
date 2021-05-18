@@ -13,7 +13,7 @@ Aside from that, I am on my feet running 30 miles per week, most of them done ea
 I have a huge interest in **languages** as well, both human and programming. I have a pipe dream of learning one language from each major language family, and if I spend a year focusing on just one language, I will be done by 2035 😨
 
 ### 🍓 reach out!
-Feel free to reach out to me at hello at abel dot online. Alternatively, you can find me on [Github](http://github.com/abelkartwii/), or connect with me on [LinkedIn](http://linkedin.com/abel.kartawinata/).
+Feel free to reach out to me at hi at abels dot cloud. Alternatively, you can find me on [Github](http://github.com/abelkartwii/), or connect with me on [LinkedIn](http://linkedin.com/abel.kartawinata/).
 
 ### 🍑 fun facts
 - My favorite song of all time is Carly Rae Jepsen's [Run Away With Me](https://www.youtube.com/watch?v=TeccAtqd5K8)
