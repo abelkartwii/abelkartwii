@@ -5,7 +5,7 @@
 #
 
 # no trailing slash
-url: https://abelkartwii.github.io
+url: https://abelkartwii.github.io/abelkartwii/
 
 # for header and meta tags
 title: 🌻 abel kartawinata 
@@ -25,7 +25,7 @@ nav-links:
     external: true
 
 # for the homepage image + big text next to it
-greeting_image: /assets/me.jpg
+greeting_image: assets/me.jpg
 # 100-200 characters recommended
 greeting_text: Hi there, I'm Abel! I am currently a sophomore at Green River College studying computer science. I am from Jakarta, Indonesia, and I use she/they pronouns.
 
