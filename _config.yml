@@ -15,19 +15,19 @@ description: abel kartawinata's blog
 # for internal, make sure to include preceding slash
 nav-links:
   - name: home
-    url: /
+    url: /abelkartwii
     external: false
   - name: blog
-    url: /blog
+    url: /abelkartwii/blog
     external: false
   - name: projects
-    url: /projects
+    url: /abelkartwii/projects
     external: true
 
 # for the homepage image + big text next to it
 greeting_image: assets/me.jpg
 # 100-200 characters recommended
-greeting_text: Hi there, I'm Abel! I am currently a sophomore at Green River College studying computer science. I am from Jakarta, Indonesia, and I use she/they pronouns.
+greeting_text: Hi there, nice to meet you! My name is Abel and I use she/they pronouns.
 
 # show blog post excerpts on blog page
 show_excerpts: false
