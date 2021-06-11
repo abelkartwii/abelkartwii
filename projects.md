@@ -1,5 +1,5 @@
 ---
-title: abel's blog!
+title: abel's projects!
 ---
 
 {% for post in site.posts %}
