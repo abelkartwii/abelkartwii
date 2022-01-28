@@ -27,7 +27,7 @@ nav-links:
 # for the homepage image + big text next to it
 greeting_image: assets/me.jpg
 # 100-200 characters recommended
-greeting_text: Hi there, nice to meet you! My name is Abel and I use she/they pronouns.
+greeting_text: Hi there, nice to meet you! My name is Abel and I use they/she pronouns.
 
 # show blog post excerpts on blog page
 show_excerpts: false
