@@ -2,8 +2,8 @@
 
 - 🍒 Abel, CS + Philosophy sophomore @ UIUC
 - 🌿 she/her/hers or they/them/theirs
-- 🍋 aspiring data engineer, languages + linguistics enthusiast
+- 🍋 aspiring data engineer, languages + tech ethics enthusiast
 - 🌱 currently learning: AWS!
-- 🥝 working on: my Twitter sentiment analysis [project](https://github.com/abelkartwii/eavesdropper) 
+- 🥝 working on: surviving university, my [data warehousing project](https://github.com/abelkartwii/warehouse)
 
-(visit my website for more! have a great day!)
+(visit my website for more! have a great day! :D)
