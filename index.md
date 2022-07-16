@@ -12,7 +12,7 @@ There are so many things within (and outside of) those realms that I still haven
 **In my free time**, I...
 - contribute to my engineering sorority [Alpha Omega Epsilon](http://aoetheta.org/), where I have met some of the most wonderful women in STEM
 - spend a lot of time at the gym! I was usually on my feet running 30 miles a week, but I've taken a new interest in weightlifting 🏋️‍♀️
-- [read](https://www.goodreads.com/belzki) books on any interest of mine! I love non-fiction and
+- [read](https://www.goodreads.com/belzki) books on any interest of mine! I love non-fiction and self-help
 - learn [languages](https://duome.eu/chaleurhumaine) (the human kind here) -- a [pipe dream](https://abelkartwii.github.io/abelkartwii/languages) languages of mine is to learn one language from each major language family
 
 ### 🍓 reach out!
